@@ -116,7 +116,7 @@ namespace _11泛型
 
     partial class Program
     {
-        static void Main()
+        static void Main02()
         {
             var intHolder = new Holder<int>(1, 3, 5);
             intHolder.Print();
@@ -126,8 +126,33 @@ namespace _11泛型
     #endregion
 
     #region 泛型结构
+    struct PieceOfData<T>
+    {
+        public PieceOfData(T value)
+        {
+            this._data = value;
+        }
+        private T _data;
+        public T Data
+        {
+            get { return this._data; }
+            set { this._data = value; }
+        }
 
+    }
 
+    partial class Program
+    {
+        static void Main03()
+        {
+            var intData = new PieceOfData<int>(10);
+            var stringData = new PieceOfData<string>("hi there");
+
+            Console.WriteLine("intData = {0}", intData.Data);
+            Console.WriteLine("stringData ={0}", stringData.Data);
+        }
+    }
+
+    delegate void MyDelegate<T>(T value);
     #endregion
-
 }
