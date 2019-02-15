@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24反射和特性", "24反射和特性\24反射和特性.csproj", "{BA741190-221A-4F3E-AC24-EA5B77DB3FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA741190-221A-4F3E-AC24-EA5B77DB3FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA741190-221A-4F3E-AC24-EA5B77DB3FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA741190-221A-4F3E-AC24-EA5B77DB3FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA741190-221A-4F3E-AC24-EA5B77DB3FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C46F67AE-32CD-439D-A41E-6C63E401E0B7}
+	EndGlobalSection
+EndGlobal

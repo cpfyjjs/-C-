@@ -1,0 +1,7 @@
+D:\C#\11泛型\11泛型\obj\Debug\11泛型.csprojAssemblyReference.cache
+D:\C#\11泛型\11泛型\obj\Debug\11泛型.csproj.CoreCompileInputs.cache
+D:\C#\11泛型\11泛型\bin\Debug\11泛型.exe.config
+D:\C#\11泛型\11泛型\bin\Debug\11泛型.exe
+D:\C#\11泛型\11泛型\bin\Debug\11泛型.pdb
+D:\C#\11泛型\11泛型\obj\Debug\11泛型.exe
+D:\C#\11泛型\11泛型\obj\Debug\11泛型.pdb

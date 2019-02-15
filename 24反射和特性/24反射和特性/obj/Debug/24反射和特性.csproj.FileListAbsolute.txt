@@ -1,0 +1,7 @@
+D:\C#\24反射和特性\24反射和特性\bin\Debug\24反射和特性.exe.config
+D:\C#\24反射和特性\24反射和特性\bin\Debug\24反射和特性.exe
+D:\C#\24反射和特性\24反射和特性\bin\Debug\24反射和特性.pdb
+D:\C#\24反射和特性\24反射和特性\obj\Debug\24反射和特性.csprojAssemblyReference.cache
+D:\C#\24反射和特性\24反射和特性\obj\Debug\24反射和特性.csproj.CoreCompileInputs.cache
+D:\C#\24反射和特性\24反射和特性\obj\Debug\24反射和特性.exe
+D:\C#\24反射和特性\24反射和特性\obj\Debug\24反射和特性.pdb
