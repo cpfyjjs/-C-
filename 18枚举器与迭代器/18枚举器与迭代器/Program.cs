@@ -175,7 +175,7 @@ namespace _18枚举器与迭代器
 
     partial class Program
     {
-        static void Main()
+        static void Main04()
         {
             Specturm2 startUV = new Specturm2(true);
             Specturm2 startIR = new Specturm2(false);
