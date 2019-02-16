@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("01learingbase")]
+[assembly: AssemblyTitle("18枚举器与迭代器")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("01learingbase")]
+[assembly: AssemblyProduct("18枚举器与迭代器")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("6c6ce66c-3770-41f0-8bb4-0d2902236020")]
+[assembly: Guid("9c8c1453-601e-428c-a346-30d4c690550d")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

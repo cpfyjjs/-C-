@@ -1,2 +1,0 @@
-D:\C#\01learingbase\01learingbase\obj\Debug\01learingbase.csprojAssemblyReference.cache
-D:\C#\01learingbase\01learingbase\obj\Debug\01learingbase.csproj.CoreCompileInputs.cache

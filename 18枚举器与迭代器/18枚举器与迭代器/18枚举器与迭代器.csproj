@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6C6CE66C-3770-41F0-8BB4-0D2902236020}</ProjectGuid>
+    <ProjectGuid>{9C8C1453-601E-428C-A346-30D4C690550D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01learingbase</RootNamespace>
-    <AssemblyName>01learingbase</AssemblyName>
+    <RootNamespace>_18枚举器与迭代器</RootNamespace>
+    <AssemblyName>18枚举器与迭代器</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

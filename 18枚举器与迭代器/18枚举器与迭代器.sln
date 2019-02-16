@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01learingbase", "01learingbase\01learingbase.csproj", "{6C6CE66C-3770-41F0-8BB4-0D2902236020}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18枚举器与迭代器", "18枚举器与迭代器\18枚举器与迭代器.csproj", "{9C8C1453-601E-428C-A346-30D4C690550D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6C6CE66C-3770-41F0-8BB4-0D2902236020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C6CE66C-3770-41F0-8BB4-0D2902236020}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C6CE66C-3770-41F0-8BB4-0D2902236020}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C6CE66C-3770-41F0-8BB4-0D2902236020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8C1453-601E-428C-A346-30D4C690550D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8C1453-601E-428C-A346-30D4C690550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8C1453-601E-428C-A346-30D4C690550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8C1453-601E-428C-A346-30D4C690550D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {38BF6391-23A9-462F-9517-61937D4626B4}
+		SolutionGuid = {775D4B39-F35E-495E-8DF2-0BE8C3BDF779}
 	EndGlobalSection
 EndGlobal
